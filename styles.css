@@ -31,7 +31,7 @@ header nav ul li {
 #projects, #aboutme {
     margin: 0 auto; /*centers projects div */
     width: 90%; /* adds space on either side*/
-    max-width: 900px; /* keeps div from getting too wide*/
+    max-width: 600px; /* keeps div from getting too wide*/
 }
 
 .project {
